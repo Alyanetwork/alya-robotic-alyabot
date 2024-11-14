@@ -1,6 +1,6 @@
-# AeonBot UltraSecure
+# alyabot UltraSecure
 
-**AeonBot UltraSecure**; ileri düzey güvenlik, tehdit analizi, yüz/ses/nesne tanıma, çevresel farkındalık ve enerji yönetimi özelliklerine sahip, çok işlevli bir insansı robot sistemidir. AeonBot UltraSecure, çevresindeki potansiyel tehditleri algılayabilir, gerektiğinde güvenlik moduna geçebilir ve kullanıcıyla telepatik bağlantı kurarak duruma uygun yanıtlar verebilir.
+**AlyaBot UltraSecure**; ileri düzey güvenlik, tehdit analizi, yüz/ses/nesne tanıma, çevresel farkındalık ve enerji yönetimi özelliklerine sahip, çok işlevli bir insansı robot sistemidir. AeonBot UltraSecure, çevresindeki potansiyel tehditleri algılayabilir, gerektiğinde güvenlik moduna geçebilir ve kullanıcıyla telepatik bağlantı kurarak duruma uygun yanıtlar verebilir.
 
 ## Özellikler
 
@@ -22,7 +22,7 @@ Kodu kopyala
 
 ### Gereksinimler
 
-AeonBot UltraSecure Python ile geliştirilmiştir. Projeyi çalıştırmak için Python 3.7+ sürümüne ihtiyaç vardır.
+AlyaBot UltraSecure Python ile geliştirilmiştir. Projeyi çalıştırmak için Python 3.7+ sürümüne ihtiyaç vardır.
 
 ### Gerekli Kütüphanelerin Yüklenmesi
 
