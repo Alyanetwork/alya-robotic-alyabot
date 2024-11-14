@@ -1,0 +1,23 @@
+AlyaBotUltraSecure/
+├── src/
+│   ├── main.py                   # Ana kontrol dosyası
+│   ├── config.py                 # Yapılandırma dosyası
+│   ├── modules/
+│   │   ├── security/             # Tehlike analizi, güvenlik ve jammer yönetimi
+│   │   │   ├── threat_analysis.py
+│   │   │   ├── attack_prevention.py
+│   │   │   └── jammer_control.py
+│   │   ├── recognition/          # Ses, yüz ve nesne tanıma
+│   │   │   ├── face_recognition.py
+│   │   │   ├── sound_recognition.py
+│   │   │   └── object_detection.py
+│   │   ├── mapping/              # Harita ve trafik yönetimi
+│   │   │   ├── map_management.py
+│   │   │   └── traffic_analysis.py
+│   │   ├── energy/               # Özerk enerji yönetimi
+│   │   │   ├── energy_converter.py
+│   │   │   └── nanobattery_management.py
+│   │   ├── telepathy/            # Zihin etkileşimi ve telepatik bağlantı
+│   │   │   ├── neural_interface.py
+│   │   │   └── emotion_recognition.py
+└── README.md
